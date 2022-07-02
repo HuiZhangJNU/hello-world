@@ -6,3 +6,5 @@ Freshman
 	**bold text**
 ### H3
 	**bold text**
+*italicized text*
+**bold text**
