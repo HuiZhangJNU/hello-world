@@ -58,6 +58,6 @@ That is so funny! :joy:
 
 I need to highlight these ==very important words==.
 
-H~2~O
+`H~2~O`
 
-X^2^
+`X^2^`
