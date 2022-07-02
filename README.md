@@ -18,3 +18,8 @@ Freshman
 - First item
 - Second item
 - Third item
+
+`code`
+
+[title](https://www.example.com)
+![alt text](image.jpg)
